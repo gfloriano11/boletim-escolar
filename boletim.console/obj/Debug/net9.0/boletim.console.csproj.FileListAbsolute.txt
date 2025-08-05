@@ -1,0 +1,15 @@
+C:\Users\jdflo\Gustavo\catolica\engenharia_software\2_semestre\poo\aula1\boletim-escolar\boletim.console\bin\Debug\net9.0\boletim.console.exe
+C:\Users\jdflo\Gustavo\catolica\engenharia_software\2_semestre\poo\aula1\boletim-escolar\boletim.console\bin\Debug\net9.0\boletim.console.deps.json
+C:\Users\jdflo\Gustavo\catolica\engenharia_software\2_semestre\poo\aula1\boletim-escolar\boletim.console\bin\Debug\net9.0\boletim.console.runtimeconfig.json
+C:\Users\jdflo\Gustavo\catolica\engenharia_software\2_semestre\poo\aula1\boletim-escolar\boletim.console\bin\Debug\net9.0\boletim.console.dll
+C:\Users\jdflo\Gustavo\catolica\engenharia_software\2_semestre\poo\aula1\boletim-escolar\boletim.console\bin\Debug\net9.0\boletim.console.pdb
+C:\Users\jdflo\Gustavo\catolica\engenharia_software\2_semestre\poo\aula1\boletim-escolar\boletim.console\obj\Debug\net9.0\boletim.console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdflo\Gustavo\catolica\engenharia_software\2_semestre\poo\aula1\boletim-escolar\boletim.console\obj\Debug\net9.0\boletim.console.AssemblyInfoInputs.cache
+C:\Users\jdflo\Gustavo\catolica\engenharia_software\2_semestre\poo\aula1\boletim-escolar\boletim.console\obj\Debug\net9.0\boletim.console.AssemblyInfo.cs
+C:\Users\jdflo\Gustavo\catolica\engenharia_software\2_semestre\poo\aula1\boletim-escolar\boletim.console\obj\Debug\net9.0\boletim.console.csproj.CoreCompileInputs.cache
+C:\Users\jdflo\Gustavo\catolica\engenharia_software\2_semestre\poo\aula1\boletim-escolar\boletim.console\obj\Debug\net9.0\boletim.console.sourcelink.json
+C:\Users\jdflo\Gustavo\catolica\engenharia_software\2_semestre\poo\aula1\boletim-escolar\boletim.console\obj\Debug\net9.0\boletim.console.dll
+C:\Users\jdflo\Gustavo\catolica\engenharia_software\2_semestre\poo\aula1\boletim-escolar\boletim.console\obj\Debug\net9.0\refint\boletim.console.dll
+C:\Users\jdflo\Gustavo\catolica\engenharia_software\2_semestre\poo\aula1\boletim-escolar\boletim.console\obj\Debug\net9.0\boletim.console.pdb
+C:\Users\jdflo\Gustavo\catolica\engenharia_software\2_semestre\poo\aula1\boletim-escolar\boletim.console\obj\Debug\net9.0\boletim.console.genruntimeconfig.cache
+C:\Users\jdflo\Gustavo\catolica\engenharia_software\2_semestre\poo\aula1\boletim-escolar\boletim.console\obj\Debug\net9.0\ref\boletim.console.dll
