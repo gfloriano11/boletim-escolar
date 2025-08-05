@@ -10,15 +10,13 @@ string[] names = new string[quantity];
 for (int i = 0; i < quantity; i++)
 {
     Console.Clear();
-    Console.Write($"Cadastrando Registro Nº {i + 1}");
+    Console.WriteLine($"Cadastrando Registro Nº {i + 1}");
 
     Console.Write("Nome : ");
     name = Console.ReadLine();
 
-    Console.Write("Nome : ");
-    age = int.Parse(Console.ReadLine() ?? "0");
-
-    Console.ReadKey();
+    Console.Write("Age : ");
+    age = int.Parse(Console.ReadLine());
 
     names[i] = name ?? "No name";
     ages[i] = age;
